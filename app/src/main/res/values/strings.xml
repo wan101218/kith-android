@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 应用名与一句话定位（改动此文件会触发 AAPT2 重新链接资源） -->
+    <string name="app_name">Kith</string>
+    <string name="app_tagline">造一个社会，看它自己活起来</string>
+    <string name="society_isolated_hint">每个社会都是独立世界，彼此互不干扰</string>
+</resources>

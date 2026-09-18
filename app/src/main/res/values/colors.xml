@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Kith 品牌色 -->
+    <color name="kith_ink">#FF12131A</color>
+    <color name="kith_amber">#FFF5B544</color>
+    <color name="kith_bg">#FFF7F8FA</color>
+    <color name="kith_bg_dark">#FF0E1015</color>
+
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>

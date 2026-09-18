@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--
+      Kith 基础主题。
+      状态栏 / 导航栏全部透明，由 Compose 侧 edge-to-edge 绘制；
+      windowLightStatusBar 在浅色下把状态栏图标变深色，保证可读。
+    -->
+    <style name="Theme.Kith" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:windowBackground">@color/kith_bg</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:windowLightNavigationBar">true</item>
+        <item name="android:windowDrawsSystemBarBackgrounds">true</item>
+    </style>
+
+</resources>
