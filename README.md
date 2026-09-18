@@ -11,7 +11,7 @@
 
 这是 Android 手机端。**Windows 桌面端在另一个仓库，两边存档互通：**
 
-> 👉 **https://github.com/\<your-username\>/kith-desktop**
+> 👉 **https://github.com/wan101218/kith-desktop**
 
 ---
 
